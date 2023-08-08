@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(38, 0, 255);
-    color:rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    color:rgb(9, 255, 0);
     font-size: 18px;
     font-style: bold;
 }
@@ -23,7 +23,7 @@ body {
     margin-top: 30px; /*espaço inferior de 10 pixels */
     width: 300px;
 }
-
+ 
 .item img{
     width: 200px;
     height: 200px;
