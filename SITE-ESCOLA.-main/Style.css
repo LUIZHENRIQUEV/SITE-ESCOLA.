@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color:rgb(9, 255, 0);
+    font-size: 18px;
+    font-style: bold;
+}
+
+.logoescola {
+    width: 30%;
+}
+
+.meio{
+    justify-content: space-around;
+    Display:flex;
+}
+
+.topico{
+    margin-right: 10cm;
+    
+}
+.item{
+    margin-top: 80px; /* Espaço superior de 10 pixels */
+    margin-top: 80px; /*espaço inferior de 10 pixels */
+    width: 300px;
+}
+ 
+.item img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+}
